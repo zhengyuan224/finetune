@@ -1,0 +1,5 @@
+model_name_or_path: /root/autodl-tmp/qwen/Qwen2-7B-Instruct
+adapter_name_or_path: model
+cutoff_len: 2000
+template: qwen
+finetuning_type: lora
